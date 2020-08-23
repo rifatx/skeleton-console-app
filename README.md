@@ -1,0 +1,1 @@
+### Skeleton .NET Core console app
